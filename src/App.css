@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.form-control{
+  margin: 10px auto
+}
+
+.center{
+  color:white
+}
+
+.card {
+  margin:20px auto;
+}
+
+.gr{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
